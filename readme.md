@@ -1,0 +1,1 @@
+All helpful golang info from course
